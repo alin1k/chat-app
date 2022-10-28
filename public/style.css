@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.message-body{
+    margin: 0 0 15px;
+    padding: 5px 10px 15px;
+    border: solid;
+    border-radius: 15px;
+    width: 15rem;
+}
+
+.name{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.message{
+    margin: 10px 0 0;
+
+}
+
+.server-message{
+    text-align: center;
+}
